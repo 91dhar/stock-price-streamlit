@@ -1,6 +1,6 @@
 # Stock Price application using the Streamlit library.
 
-A simple stock price visualisation application made with the help of Python's Streamlit library.
+A simple stock price visualisation application made with the help of Python's [Streamlit library](https://streamlit.io/).
 
 ### To check prices of stocks apart from the one already used in this application, just change the `tickerSymbol` to whatever symbol you want. Should be listed exactly the same on Yahoo Finance portal.
 
