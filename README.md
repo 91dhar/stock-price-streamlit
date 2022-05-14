@@ -15,4 +15,4 @@ Requirements:
 ### To run the application, write the following command and hit Enter:
 `streamlit run app.py` (Here, "app.py" is the file name).
 
-Note - I did not activate the Conda environment for this application. This is still WIP as I am yet to deploy on Heroku.
+Note - This is still WIP as I am yet to deploy on Heroku.
