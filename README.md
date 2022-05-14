@@ -8,3 +8,5 @@ Requirements:
 - import pandas
 
 Note - I did not activate the Conda environment for this application.
+
+This is still WIP as I am yet to deploy this on Heroku.
