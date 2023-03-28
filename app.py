@@ -14,7 +14,7 @@ tickerSymbol = 'ITC.BO'
 #get data on this ticker
 tickerData = yf.Ticker(tickerSymbol)
 #get the historical prices for this ticker
-tickerDf = tickerData.history(period='1d', start='2010-5-31', end='2023-3-28')
+tickerDf = tickerData.history(period='1d', start='2019-4-01', end='2023-3-28')
 # Open	High	Low	Close	Volume	Dividends	Stock Splits
 
 st.write("""
@@ -36,7 +36,7 @@ tickerSymbol = 'TATAMOTORS.BO'
 #get data on this ticker
 tickerData = yf.Ticker(tickerSymbol)
 #get the historical prices for this ticker
-tickerDf = tickerData.history(period='1d', start='2010-5-31', end='2023-3-28')
+tickerDf = tickerData.history(period='1d', start='2019-4-01', end='2023-3-28')
 # Open	High	Low	Close	Volume	Dividends	Stock Splits
 
 st.write("""
